@@ -1,0 +1,15 @@
+E:\promact\c#\Project\src\Assignment_Generics\bin\Debug\net6.0\Assignment_Generics.exe
+E:\promact\c#\Project\src\Assignment_Generics\bin\Debug\net6.0\Assignment_Generics.deps.json
+E:\promact\c#\Project\src\Assignment_Generics\bin\Debug\net6.0\Assignment_Generics.runtimeconfig.json
+E:\promact\c#\Project\src\Assignment_Generics\bin\Debug\net6.0\Assignment_Generics.dll
+E:\promact\c#\Project\src\Assignment_Generics\bin\Debug\net6.0\Assignment_Generics.pdb
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.csproj.AssemblyReference.cache
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.AssemblyInfoInputs.cache
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.AssemblyInfo.cs
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.csproj.CoreCompileInputs.cache
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.dll
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\refint\Assignment_Generics.dll
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.pdb
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\Assignment_Generics.genruntimeconfig.cache
+E:\promact\c#\Project\src\Assignment_Generics\obj\Debug\net6.0\ref\Assignment_Generics.dll
